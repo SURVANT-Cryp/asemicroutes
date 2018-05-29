@@ -15,3 +15,5 @@ https://jacket2.org/commentary/avant-garde-iii-situationist-maps-take-two<br>
 https://en.wikipedia.org/wiki/Private_language_argument<br>
 
 http://writtenrecords.info/2014-2013.html
+
+I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
