@@ -1,7 +1,7 @@
 #!/Users/patrickquinn/anaconda3/bin/python/
 # coding: utf-8
 
-#   The open nature of asemic works allows for meaning to occur across linguistic understanding; an asemic text may be “read” in a similar fashion regardless of the reader’s natural language. Multiple meanings for the same symbolism are another possibility for an asemic work, that is, asemic writing can be polysemantic or have zero meaning, infinite meanings, or its meaning can evolve over time.
+# The open nature of asemic works allows for meaning to occur across linguistic understanding; an asemic text may be “read” in a similar fashion regardless of the reader’s natural language. Multiple meanings for the same symbolism are another possibility for an asemic work, that is, asemic writing can be polysemantic or have zero meaning, infinite meanings, or its meaning can evolve over time.
 
 import string
 import random
