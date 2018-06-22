@@ -1,7 +1,9 @@
 #!/Users/patrickquinn/anaconda3/bin/python/
 # coding: utf-8
+#   The open nature of asemic works allows for meaning to occur across linguistic understanding; an asemic text may be “read” in a similar fashion regardless of the reader’s natural language. Multiple meanings for the same symbolism are another possibility for an asemic work, that is, asemic writing can be polysemantic or have zero meaning, infinite meanings, or its meaning can evolve over time.
 
-# The open nature of asemic works allows for meaning to occur across linguistic understanding; an asemic text may be “read” in a similar fashion regardless of the reader’s natural language. Multiple meanings for the same symbolism are another possibility for an asemic work, that is, asemic writing can be polysemantic or have zero meaning, infinite meanings, or its meaning can evolve over time.
+#   “De Quincey describes using the stars to guide him home. Having no knowledge of celestial navigation he finds himself in unfamiliar territories, discovering what he believes are streets anonymous to maps, thus reimagining the city in his own eyes.” (http://www.thedoublenegative.co.uk/2014/12/an-introduction-to-psychogeography/)
+
 
 import string
 import random
