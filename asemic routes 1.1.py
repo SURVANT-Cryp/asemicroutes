@@ -11,7 +11,15 @@ import googlemaps
 import random
 import decimal
 import textwrap
+import sys
+import time
 from random import randint
+
+def slowprint(s):
+    for c in s + '\n':
+        sys.stdout.write(c)
+        sys.stdout.flush() # defeat buffering
+        time.sleep(random.random() * 0.1)
 
 gmaps = googlemaps.Client(key='AIzaSyAXmnIhG7oE51Pn9XpD9CZOnz12h1Wl8TA')
 
@@ -38,5 +46,5 @@ chars = string.letters + string.digits + string.punctuation
 
 routeLength = 10
 
-print('\n' + "Asemic Route:" + '\n' + ''.join((random.choice(chars)) for x in range(routeLength)) + '\n')
+slowprint('\n' + "Asemic Route:" + '\n' + ''.join((random.choice(chars)) for x in range(routeLength)) + '\n')
 
