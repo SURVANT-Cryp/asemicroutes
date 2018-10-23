@@ -4,9 +4,7 @@
 
 #   “De Quincey describes using the stars to guide him home. Having no knowledge of celestial navigation he finds himself in unfamiliar territories, discovering what he believes are streets anonymous to maps, thus reimagining the city in his own eyes.” (http://www.thedoublenegative.co.uk/2014/12/an-introduction-to-psychogeography/)
 
-
 import string
-import random
 import googlemaps
 import random
 import decimal
@@ -37,7 +35,7 @@ rand_long = float(decimal.Decimal(random.randrange(-740584152,-737537850))/10000
 
 random_address=gmaps.reverse_geocode((rand_lat,rand_long))
 
-print '\n' + "Suggested Destination:" + '\n' + (random_address[0]['formatted_address'])
+print '\n' + "Suggested Direction/Destination:" + '\n' + (random_address[0]['formatted_address'])
 
 # Just alphanumeric characters
 chars = string.letters + string.digits
@@ -53,6 +51,5 @@ urls = ['https://www.google.com/maps']
 
 for url in urls:
     webbrowser.open_new_tab(url)
-
 
 
