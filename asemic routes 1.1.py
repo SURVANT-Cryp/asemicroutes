@@ -14,6 +14,7 @@ import textwrap
 import sys
 import time
 from random import randint
+import webbrowser
 
 def slowprint(s):
     for c in s + '\n':
@@ -36,7 +37,7 @@ rand_long = float(decimal.Decimal(random.randrange(-740584152,-737537850))/10000
 
 random_address=gmaps.reverse_geocode((rand_lat,rand_long))
 
-print '\n' + "Suggested Starting Point:" + '\n' + (random_address[0]['formatted_address'])
+print '\n' + "Suggested Destination:" + '\n' + (random_address[0]['formatted_address'])
 
 # Just alphanumeric characters
 chars = string.letters + string.digits
@@ -47,4 +48,11 @@ chars = string.letters + string.digits + string.punctuation
 routeLength = 10
 
 slowprint('\n' + "Asemic Route:" + '\n' + ''.join((random.choice(chars)) for x in range(routeLength)) + '\n')
+
+urls = ['https://www.google.com/maps']
+
+for url in urls:
+    webbrowser.open_new_tab(url)
+
+
 
