@@ -1,6 +1,6 @@
 # asemicroutes
 
-This counter-navigational tool is designed to help users traverse New York City (and the surrounding area) in a more psychogeographic way.<br>
+This navigational tool is designed to help users traverse New York City (and the surrounding area) in a more psychogeographic way.<br>
 
 Asemic writing usually refers to a wordless, open semantic form of literature. The open nature of asemic work allows for meaning to emerge across linguistic understanding; multiple meanings for the same symbolism are another possibility for an asemic work, that is, asemic content can be polysemantic or have zero meaning, infinite meanings, or its meaning can evolve over time. So, what happens when you apply this concept to urban navigation?<br>
 
