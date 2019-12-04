@@ -12,14 +12,14 @@ https://en.wikipedia.org/wiki/Psychogeography<br>
 
 https://jacket2.org/commentary/avant-garde-iii-situationist-maps-take-two<br>
 
-"an ensemble of signs capable of transmitting the reality served by the consciousness more exactly than all the former fragmentary and partial practices (phonetic alphabets, algebra, geometry, painting, music, and so forth)."<br>https://en.wikipedia.org/wiki/Hypergraphy<br>
+“an ensemble of signs capable of transmitting the reality served by the consciousness more exactly than all the former fragmentary and partial practices (phonetic alphabets, algebra, geometry, painting, music, and so forth).”<br>https://en.wikipedia.org/wiki/Hypergraphy<br>
 
-"The open nature of asemic works allows for meaning to occur across linguistic understanding; an asemic text may be 'read' in a similar fashion regardless of the reader's natural language. Multiple meanings for the same symbolism are another possibility for an asemic work, that is, asemic writing can be polysemantic or have zero meaning, infinite meanings, or its meaning can evolve over time."<br>https://en.wikipedia.org/wiki/Asemic_writing<br>
+“The open nature of asemic works allows for meaning to occur across linguistic understanding; an asemic text may be ‘read’ in a similar fashion regardless of the reader's natural language. Multiple meanings for the same symbolism are another possibility for an asemic work, that is, asemic writing can be polysemantic or have zero meaning, infinite meanings, or its meaning can evolve over time.”<br>https://en.wikipedia.org/wiki/Asemic_writing<br>
 
-"There is no combination of characters one can make—dhcmrlchtdj, for example—that the divine Library has not foreseen and that in one or more of its secret tongues does not hide a terrible significance. There is no syllable one can speak that is not filled with tenderness and terror, that is not, in one of those languages, the mighty name of a god."<br>
+“There is no combination of characters one can make—dhcmrlchtdj, for example—that the divine Library has not foreseen and that in one or more of its secret tongues does not hide a terrible significance. There is no syllable one can speak that is not filled with tenderness and terror, that is not, in one of those languages, the mighty name of a god.”<br>
 https://www.theparisreview.org/blog/2015/07/23/the-library-of-babel-as-seen-from-within<br>
 
-"Personal Cartographies": http://www.gpsdrawing.com/press/caj71-JeremyWood.pdf<br>
+“Personal Cartographies”: http://www.gpsdrawing.com/press/caj71-JeremyWood.pdf<br>
 
 https://en.wikipedia.org/wiki/Private_language_argument<br>
 
